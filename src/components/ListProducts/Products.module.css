@@ -1,0 +1,10 @@
+h1 {
+  padding-left: 16px;
+}
+
+.containerProducts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 16px;
+}
